@@ -1,4 +1,7 @@
+# Ignore the .ipynb_checkpoints folder
 .ipynb_checkpoints/
+
+# Ignore specific folders (spaces in folder names must be handled correctly)
 archive (3)/
 bin/
 dataset/
@@ -7,6 +10,8 @@ final_dataset_alpha/
 new_alpha/
 new_alpha_2/
 numbers_1_hand_signs/
-2_hands.py/
-Deaf.py/
-model_for_2_hands.ipynb/
+
+# Ignore specific files
+2_hands.py
+Deaf.py
+model_for_2_hands.ipynb
