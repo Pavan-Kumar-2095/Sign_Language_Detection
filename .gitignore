@@ -2,14 +2,12 @@
 .ipynb_checkpoints/
 
 # Ignore specific folders (spaces in folder names must be handled correctly)
-archive (3)/
-bin/
-dataset/
-final models/
+Important_dataset-photo_clicked/
+Important_dataset-photo_clicked_FLIPPED/
+Important_NUMBER_Dataset_photo_clicked/
+Kaggle_DataSet/
 final_dataset_alpha/
-new_alpha/
-new_alpha_2/
-numbers_1_hand_signs/
+Practice_Test_models/
 
 # Ignore specific files
 2_hands.py
